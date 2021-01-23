@@ -15,6 +15,8 @@
   <img align="left" alt="Shimanto's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
+![Profile views](https://gpvc.arturio.dev/shimanto-rehman)
+
 ```
 -I’m currently working on something cool;
 -I am possessing a strong willingness to learn about entrepreneurship;
@@ -23,7 +25,7 @@
 -How to reach me: [@shimanto_rehman](https://twitter.com/shimanto_rehman);
 ```
 
-![Profile views](https://gpvc.arturio.dev/shimanto-rehman)
+
 
 
 <!--
