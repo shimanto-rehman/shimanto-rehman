@@ -36,7 +36,8 @@
 
 📈 **My GitHub Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shimanto-rehman&show_icons=true&theme=gotham" alt="shimanto-rehman" />
+
+
 <!--
-**shimanto-rehman/shimanto-rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Inspiration : "https://github.com/abhisheknaiidu"
+Theme Inspiration : "https://github.com/abhisheknaiidu"
 
