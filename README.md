@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="shimanto-rehman" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shimanto-rehman&show_icons=true&theme=gotham" alt="shimanto-rehman" />
 <!--
 **shimanto-rehman/shimanto-rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Inspiration : "https://github.com/abhisheknaiidu"
