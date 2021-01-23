@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
   <img align="left" alt="Shimanto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <a href="mailto:smshimantorahman47@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a> 
-
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
   <img align="left" alt="Shimanto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
