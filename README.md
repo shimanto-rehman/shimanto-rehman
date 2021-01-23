@@ -19,7 +19,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
 
 **Talking about Personal Stuffs:**
-
 - I’m currently working on Machine Learning
 - I am possessing a strong willingness to learn about entrepreneurship
 - I communicate effectively in a team setting
