@@ -2,7 +2,23 @@
   <img height="400" width="800" src="intro.gif"/>
 </p>
 
+<a href="https://twitter.com/shimanto_rehman">
+  <img align="left" alt="Shimanto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
+  <img align="left" alt="Shimanto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
+  <img align="left" alt="Shimanto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.reddit.com/user/shimanto47">
+  <img align="left" alt="Shimanto's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+
 ![Profile views](https://gpvc.arturio.dev/shimanto-rehman)
+
+
 <!--
 **shimanto-rehman/shimanto-rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inspiration : "https://github.com/abhisheknaiidu"
 
