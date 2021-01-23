@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuffs:**
 
-- I’m currently working on something cool
+- I’m currently working on Machine Learning
 - I am possessing a strong willingness to learn about entrepreneurship
 - I communicate effectively in a team setting
 - Ask me about anything, I am happy to help
