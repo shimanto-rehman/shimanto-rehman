@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="450" width="800" src="intro.gif"/>
+  <img height="450" width="800" src="Intro.gif"/>
 </p>
 
 <a href="https://twitter.com/shimanto_rehman">
