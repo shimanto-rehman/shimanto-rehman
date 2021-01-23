@@ -18,6 +18,7 @@
 ![Profile views](https://gpvc.arturio.dev/shimanto-rehman)
 
 **Talking about Personal Stuffs:**
+
 -I’m currently working on something cool;
 -I am possessing a strong willingness to learn about entrepreneurship;
 -I communicate effectively in a team setting;
