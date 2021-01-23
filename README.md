@@ -16,6 +16,7 @@
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/shimanto-rehman)
+![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)
 
 **Talking about Personal Stuffs:**
 
