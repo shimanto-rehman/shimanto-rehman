@@ -38,15 +38,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shimanto-rehman&count_private=ture&show_icons=true&theme=gotham" alt="shimanto-rehman" height="50%" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="51%" width="41.5%"/>
 </>
+  
+<p align="center">
+  <img src="https://github.com/shimanto-rehman/shimanto-rehman/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shimanto-rehman/shimanto-rehman/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 
 <!--
