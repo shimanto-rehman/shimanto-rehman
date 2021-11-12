@@ -50,21 +50,21 @@
 
 <p align="center">
 <a href="https://github.com/shimanto-rehman/shimanto-rehman">
-<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham" />
+<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/shimanto-rehman/Loan-Prediction-using-Machine-Learning">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham"/>
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/shimanto-rehman/Websocket-Server">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&icons=true&theme=gotham"/>
 </a>
 </p>
 
