@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
 </p>
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shimanto-rehman&repo=shimanto-rehman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <!-- Pinned Repositories 
 📌 **Pinned Repositories**
 <p align="center">
