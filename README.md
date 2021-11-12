@@ -51,10 +51,10 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham" height="50%" width="50%"/>
 </a>
 <a href="https://github.com/shimanto-rehman/Loan-Prediction-using-Machine-Learning">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham" height="50%" width="50%"/>
 </a>
 </p>
 <!--
