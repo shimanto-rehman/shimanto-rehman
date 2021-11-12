@@ -46,8 +46,7 @@
 </p>
 
 <!-- Pinned Repositories -->
-#### Pinned Repositories
-
+📌 **Pinned Repositories***
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
@@ -57,7 +56,7 @@
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
 </p>
-<!--
+
 <p align="center">
 <a href="https://github.com/shimanto-rehman/shimanto-rehman">
 <img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
