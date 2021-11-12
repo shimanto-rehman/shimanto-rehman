@@ -1,6 +1,3 @@
-# ⚠️ THIS WORKFLOW IS USED TO ILLUSTRATE lowlighter/metrics FEATURES
-# INTENDED FOR TESTING, IT IS NOT OPTIMIZED AND SHOULD NOT BE RE-USED
-
 name: Metrics (examples)
 on:
   schedule:
