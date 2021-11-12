@@ -46,7 +46,7 @@
 </p>
 
 <!-- Pinned Repositories -->
-📌 **Pinned Repositories***
+📌 **Pinned Repositories**
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
@@ -58,15 +58,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/shimanto-rehman/shimanto-rehman">
-<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
-</a>
 <span>&nbsp;</span>
+<a href="https://github.com/shimanto-rehman/shimanto-rehman">
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham" height="50%" width="46%" />
+</a>
 <a href="https://github.com/shimanto-rehman/Websocket-Server">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&icons=true&theme=gotham"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
 </p>
--->
 
 <!-- Snake Gif -->
 <p align="center">
