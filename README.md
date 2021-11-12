@@ -50,25 +50,26 @@
 
 <p align="center">
 <span>&nbsp;</span>
- <a href="https://github.com/shimanto-rehman/shimanto-rehman">
-<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
-</a>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"/>
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/shimanto-rehman/Loan-Prediction-using-Machine-Learning">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham"/>
+</a>
+</p>
+<!--
+<p align="center">
+<a href="https://github.com/shimanto-rehman/shimanto-rehman">
+<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/Websocket-Server">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&icons=true&theme=gotham"/>
 </a>
 </p>
+-->
 
-<!-- ! Snake Gif -->
+<!-- Snake Gif -->
 <p align="center">
   <img src="https://github.com/shimanto-rehman/shimanto-rehman/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
