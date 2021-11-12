@@ -1,6 +1,6 @@
 <!-- ! Intro Gif Video -->
 <p align="center">
-  <img height="450" width="800" src="Intro.gif"/>
+  <img height="574" width="970" src="Intro.gif"/>
 </p>
 
 <!-- ! Social Links -->
@@ -88,8 +88,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
-<!-- ! Profile Count -->
+<!-- Profile Count -->
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
+</p>
+
+<!-- Bangladesh -->
+<p align="center">
+  <img alt="GIF" src="BD-M.gif"/>
 </p>
