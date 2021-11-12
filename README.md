@@ -1,7 +1,9 @@
+<!-- ! Intro Gif Video -->
 <p align="center">
   <img height="450" width="800" src="Intro.gif"/>
 </p>
 
+<!-- ! Social Links -->
 <a href="https://twitter.com/shimanto_rehman">
   <img align="left" alt="Shimanto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -33,17 +35,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<!-- ! My Github Profile Statistics-->
 📈 **My GitHub Stats**
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=shimanto-rehman&count_private=ture&show_icons=true&theme=gotham" alt="shimanto-rehman" height="50%" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="51%" width="41.5%"/>
 </>
 
-![snake gif]
+<!-- ! Snake Gif -->
 <p align="center">
   <img src="https://github.com/shimanto-rehman/shimanto-rehman/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<!-- ! Profile Count -->
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
@@ -55,4 +59,4 @@
 <!--
 Theme Inspiration : "https://github.com/abhisheknaiidu"
 <a href="mailto:smshimantorahman47@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a> 
-
+-->
