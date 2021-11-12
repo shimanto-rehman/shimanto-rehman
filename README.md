@@ -45,6 +45,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
 </p>
 
+<!-- Pinned Repositories -->
+#### Pinned Repositories
+
+<p align="center">
+<a href="https://github.com/shimanto-rehman/shimanto-rehman">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shimanto-rehman/The-Bookaholic">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
 <!-- ! Snake Gif -->
 <p align="center">
   <img src="https://github.com/shimanto-rehman/shimanto-rehman/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -55,8 +78,3 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
-
-<!--
-Theme Inspiration : "https://github.com/abhisheknaiidu"
-<a href="mailto:smshimantorahman47@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a> 
--->
