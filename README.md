@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
 </p>
 
-<!-- Pinned Repositories -->
+<!-- Pinned Repositories 
 📌 **Pinned Repositories**
 <p align="center">
 <span>&nbsp;</span>
@@ -56,7 +56,6 @@
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
 </p>
-
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/shimanto-rehman">
@@ -66,6 +65,7 @@
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
 </p>
+-->
 
 <!-- Snake Gif -->
 <p align="center">
