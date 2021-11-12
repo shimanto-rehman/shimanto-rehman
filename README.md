@@ -55,16 +55,16 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
-<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham" height="50%" width="46%"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
-<a href="https://github.com/shimanto-rehman/Loan-Prediction-using-Machine-Learning">
-<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham" height="50%" width="46%"/>
+<a href="https://github.com/shimanto-rehman/Websocket-Server">
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&border_icons=true&theme=gotham" height="50%" width="46%" />
 </a>
 </p>
 <p align="center">
 <span>&nbsp;</span>
-<a href="https://github.com/shimanto-rehman/Websocket-Server">
-<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Websocket-Server&border_icons=true&theme=gotham" height="50%" width="46%" />
+<a href="https://github.com/shimanto-rehman/Loan-Prediction-using-Machine-Learning">
+<img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=Loan-Prediction-using-Machine-Learning&icons=true&theme=gotham" height="50%" width="46%"/>
 </a>
 <a href="https://github.com/shimanto-rehman/WiFi-Talk">
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=WiFi-Talk&icons=true&theme=gotham" height="50%" width="46%"/>
