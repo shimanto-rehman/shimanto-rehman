@@ -50,6 +50,9 @@
 
 <p align="center">
 <span>&nbsp;</span>
+ <a href="https://github.com/shimanto-rehman/shimanto-rehman">
+<img height='50%' width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=shimanto-rehman&border_icons=true&theme=gotham"/>
+</a>
 <a href="https://github.com/shimanto-rehman/The-Bookaholic">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shimanto-rehman&repo=The-Bookaholic&icons=true&theme=gotham"/>
 </a>
