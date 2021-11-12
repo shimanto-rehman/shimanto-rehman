@@ -54,7 +54,22 @@
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
 
-
+<td align="center">
+      <details open><summary>Account version</summary>
+        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.svg">
+      </details>
+      <details open><summary>Repository version</summary>
+        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.repository.svg">
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.facts.svg">
+      <details open><summary>Charts version</summary>
+        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.charts.svg">
+      </details>
+      <img width="900" height="1" alt="">
+</td>
 
 
 <!--
