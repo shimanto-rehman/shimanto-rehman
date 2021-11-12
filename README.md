@@ -41,7 +41,12 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=shimanto-rehman&count_private=ture&show_icons=true&theme=gotham" alt="shimanto-rehman" height="50%" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto-rehman&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
-</>
+</p>
+  
+ 🔎 **Charts version**
+<p align="center">
+        <img alt="" width="550" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.charts.svg">
+</p>
 
 <!-- ! Snake Gif -->
 <p align="center">
@@ -54,23 +59,23 @@
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
 
-<td align="center">
-      <details open><summary>Account version</summary>
-        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.svg">
-      </details>
-      <details open><summary>Repository version</summary>
-        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.repository.svg">
-      </details>
+<table>
+  <tr>
+    <th align="center">📈 Talking about Personal Stuffs:</th>
+    <th align="center">🔎 Charts version</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.facts.svg">
-      <details open><summary>Charts version</summary>
-        <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.charts.svg">
-      </details>
-      <img width="900" height="1" alt="">
-</td>
-
+      <p align="center">
+        <img alt="" width="550" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.charts.svg">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--
 Theme Inspiration : "https://github.com/abhisheknaiidu"
