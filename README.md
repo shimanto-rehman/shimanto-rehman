@@ -20,7 +20,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shimanto-rehman.shimanto-rehman)
 
-<img align="right" alt="GIF" src="Coder.gif"/>
+<img align="right" alt="GIF" src="Coder_Desk.gif"/>
 
 **Talking about Personal Stuffs:**
 - I’m currently working on Machine Learning
