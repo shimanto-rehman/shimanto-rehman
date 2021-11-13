@@ -88,15 +88,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
-[![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
-
 <!-- Spotify -->
-<a href="https://open.spotify.com/collection/tracks" rel="nofollow">
+<a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg" rel="nofollow">
   <p align="center">
-  <img src="https://camo.githubusercontent.com/1ee78d6669a4bbf5afad8cb8f0d83355d8dd7dc64776d709db4069fea5cc60d6/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/d3555f8c29dba2d6acb23311e8f5fe02c05b4e7241d8cf25b940ae6e29a7baed/68747470733a2f2f7468656d652d7265706f2d6769742d6d61696e2d7368696d616e746f2d7265686d616e2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify" style="max-width: 100%;">
   </p>
 </a>
-<!-- Alternative Code for Spotify:  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
+<!-- Alternative Code for Spotify:  [![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
 
 
 <!-- Profile Count -->
