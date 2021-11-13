@@ -97,5 +97,5 @@
 <!-- Bangladesh -->
 <p align="center">
   <img alt="GIF" src="BD.gif"/>
-  <img alt="GIF" src="Joy Bangla.gif" height="30%" width="30"/>
+  <img alt="GIF" src="Joy Bangla.gif" height="30%" width="30%"/>
 </p>
