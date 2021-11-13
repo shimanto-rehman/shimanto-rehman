@@ -99,7 +99,7 @@
 
 <!-- Profile Count -->
 <p align="center"> 
-  <b>Visitors count</b><br>
+  <b>Visitors count</b><br><br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
 
