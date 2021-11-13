@@ -98,6 +98,3 @@
 <p align="center">
   <img alt="GIF" src="BD.gif"/>
 </p>
-<p align="center">
-<img alt="GIF" src="Joy Bangla.gif" width="10%"/>
-</p>
