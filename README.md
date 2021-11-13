@@ -96,5 +96,5 @@
 
 <!-- Bangladesh -->
 <p align="center">
-  <img alt="GIF" src="BD-Flag.gif"/>
+  <img alt="GIF" src="BD.gif"/>
 </p>
