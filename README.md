@@ -89,8 +89,15 @@
 </p>
 
 <!-- Spotify -->
-&nbsp; <br> &nbsp; <br> &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) 
+ [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) 
+ 
+ <table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
+  </td>
 
 <!-- Profile Count -->
 <p align="center"> 
