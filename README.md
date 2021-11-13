@@ -89,15 +89,13 @@
 </p>
 
 <!-- Spotify -->
- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) 
- 
- <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+<a href="https://open.spotify.com/collection/tracks" rel="nofollow">
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/1ee78d6669a4bbf5afad8cb8f0d83355d8dd7dc64776d709db4069fea5cc60d6/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify" style="max-width: 100%;">
+  </p>
+</a>
+<!-- Alternative Code for Spotify:  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
 
-  </td>
 
 <!-- Profile Count -->
 <p align="center"> 
