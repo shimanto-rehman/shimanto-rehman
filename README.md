@@ -88,6 +88,9 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
+[![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
+
 <!-- Spotify -->
 <a href="https://open.spotify.com/collection/tracks" rel="nofollow">
   <p align="center">
@@ -95,11 +98,11 @@
   </p>
 </a>
 <!-- Alternative Code for Spotify:  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
-[![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
+
 
 <!-- Profile Count -->
 <p align="center"> 
-  Visitors count<br>
+  <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/shimanto-rehman/count.svg" />
 </p>
 
