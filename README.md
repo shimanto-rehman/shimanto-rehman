@@ -95,7 +95,7 @@
   </p>
 </a>
 <!-- Alternative Code for Spotify:  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
-
+[![Spotify](https://theme-repo.vercel.app/api/spotify)](https://open.spotify.com/user/	349lvs5diwiulbqihpt61x1vg)
 
 <!-- Profile Count -->
 <p align="center"> 
