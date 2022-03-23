@@ -13,6 +13,9 @@
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://instagram.com/shimanto_rehman">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />
+</a>
 <a href="https://www.reddit.com/user/shimanto47">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
