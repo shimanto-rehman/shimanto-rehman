@@ -4,8 +4,11 @@
 </p>
 
 <!-- ! Social Links -->
+<a href="https://www.facebook.com/s.m.shimanto.rehman/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+</a>
 <a href="https://twitter.com/shimanto_rehman">
-  <img align="left" alt="Shimanto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
