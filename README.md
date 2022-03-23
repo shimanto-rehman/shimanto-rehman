@@ -14,7 +14,7 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/shimanto47">
-  <img align="left" alt="Shimanto's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
