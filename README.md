@@ -1,6 +1,6 @@
 <!-- ! Intro Gif Video -->
 <p align="center">
-  <img height="540" width="970" src="Intro.gif"/>
+  <img height="540" width="900" src="Intro.gif"/>
 </p>
 
 <!-- ! Social Links -->
