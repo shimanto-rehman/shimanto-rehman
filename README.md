@@ -33,7 +33,7 @@
 - I am possessing a strong willingness to learn about entrepreneurship
 - I communicate effectively in a team setting
 - Ask me about anything, I am happy to help
-- How to reach me: [![Gmail Badge](https://img.shields.io/badge/smshimantorahman47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smshimantorahman47@gmail.com)](mailto:smshimantorahman47@gmail.com)
+- How to reach me: [![Gmail Badge](https://img.shields.io/badge/shimanto.rehman.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimanto.rehman.bd@gmail.com)](mailto:shimanto.rehman.bd@gmail.com)
 - Checkout my [![Resume](https://img.shields.io/badge/-Resume-success)](https://github.com/shimanto-rehman/shimanto-rehman/blob/main/Resume.pdf)
 
 **Languages and Tools:**
