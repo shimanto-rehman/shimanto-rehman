@@ -1,5 +1,4 @@
 <!-- ! Intro Gif Video -->
-[![Spotify](https://spotify-now-playing-three-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <p align="center">
   <img height="490" width="810" src="Intro.gif"/>
 </p>
@@ -124,6 +123,9 @@
   <img src="https://camo.githubusercontent.com/d3555f8c29dba2d6acb23311e8f5fe02c05b4e7241d8cf25b940ae6e29a7baed/68747470733a2f2f7468656d652d7265706f2d6769742d6d61696e2d7368696d616e746f2d7265686d616e2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="spotify-now-playing-three-orpin.vercel.app/api/spotify" style="max-width: 100%;">
   </p>
 </a>
+
+
+[![Spotify](https://spotify-now-playing.shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <!-- Alternative Code for Spotify:  [![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
 
 
