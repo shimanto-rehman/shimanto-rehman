@@ -3,7 +3,7 @@
   <img height="490" width="810" src="Intro.gif"/>
 </p>
 
-<div align="center">
+<p align="center">
 <!-- ! Social Links -->
 <a href="https://www.facebook.com/s.m.shimanto.rehman/">
   <img align="left" width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.reddit.com/user/shimanto47">
   <img align="left" width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
-</div>
+</a>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
 ![GitHub watchers](https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=Green&logo=github)
