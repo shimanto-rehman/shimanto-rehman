@@ -125,7 +125,7 @@
 </a>
 
 
-[![Spotify](https://spotify-now-playing.shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing.shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
 <!-- Alternative Code for Spotify:  [![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
 
 
