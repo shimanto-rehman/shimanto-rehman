@@ -5,8 +5,8 @@
 
 <p align="center">
 <!-- ! Social Links -->
-<a href="https://www.facebook.com/s.m.shimanto.rehman/">
-  <img align"center" width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<a href="https://www.facebook.com/s.m.shimanto.rehman/"  align"center">
+  <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <a href="https://twitter.com/shimanto_rehman">
   <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
