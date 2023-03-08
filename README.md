@@ -24,7 +24,7 @@
 </a>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shimanto-rehman.shimanto-rehman)
+![GitHub watchers](https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=Green&logo=github)
 
 <img align="right" alt="GIF" src="Coder.gif"/>
 
