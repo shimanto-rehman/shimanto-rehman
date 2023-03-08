@@ -125,7 +125,7 @@
 </a>
 
 &nbsp;<div align="center">
-[![Spotify](https://spotify-now-playing.shimanto-rehman.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
+[![Spotify](https://spotify-now-playing.shimanto-rehman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
 </div>
 <!-- Alternative Code for Spotify:  [![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
 
