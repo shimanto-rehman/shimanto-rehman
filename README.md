@@ -3,7 +3,7 @@
   <img height="490" width="810" src="Intro.gif"/>
 </p>
 
-<div class=" display: flex, justify-content: center">
+<div class="margin: auto">
 <!-- ! Social Links -->
 <a href="https://www.facebook.com/s.m.shimanto.rehman/">
   <img align="left" width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
