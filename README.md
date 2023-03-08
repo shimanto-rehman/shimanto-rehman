@@ -10,9 +10,11 @@
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://twitter.com/shimanto_rehman">
   <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
@@ -20,14 +22,17 @@
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
   <img width="22px" alt="spotify" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://instagram.com/shimanto_rehman">
   <img width="22px" alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
+<span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://www.reddit.com/user/shimanto47">
@@ -38,6 +43,7 @@
 <br>
 <p align="center">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman?color=yellow&logo=github">
+<span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=green&logo=github">
