@@ -3,6 +3,7 @@
   <img height="490" width="810" src="Intro.gif"/>
 </p>
 
+<div class=" display: flex, justify-content: center">
 <!-- ! Social Links -->
 <a href="https://www.facebook.com/s.m.shimanto.rehman/">
   <img align="left" width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
@@ -25,7 +26,7 @@
 
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
 ![GitHub watchers](https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=Green&logo=github)
-
+</div>
 <img align="right" alt="GIF" src="Coder.gif"/>
 
 **Talking about Personal Stuffs:**
