@@ -1,4 +1,5 @@
 <!-- ! Intro Gif Video -->
+[![Spotify](https://spotify-now-playing-three-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <p align="center">
   <img height="490" width="810" src="Intro.gif"/>
 </p>
@@ -124,7 +125,7 @@
   </p>
 </a>
 <!-- Alternative Code for Spotify:  [![Spotify](https://theme-repo-git-main-shimanto-rehman.vercel.app/api/spotify)](https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg) -->
-![Spotify](https://spotify-now-playing-three-orpin.vercel.app/api/spotify)(https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg)
+
 
 <!-- Profile Count -->
 <p align="center"> 
