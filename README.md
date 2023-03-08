@@ -38,6 +38,8 @@
 <br>
 <p align="center">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman?color=yellow&logo=github">
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=green&logo=github">
 </p>
 
