@@ -25,9 +25,11 @@
 </a>
 </p>
 
+<br>
+<p align="center">
 [![GitHub contributors](https://img.shields.io/github/contributors/shimanto-rehman/shimanto-rehman)](https://github.com/shimanto-rehman/shimanto-rehman/graphs/contributors)
 ![GitHub watchers](https://img.shields.io/github/watchers/shimanto-rehman/shimanto-rehman?color=Green&logo=github)
-
+</p>
 
 <img align="right" alt="GIF" src="Coder.gif"/>
 
