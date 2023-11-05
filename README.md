@@ -38,6 +38,9 @@
 <a href="https://www.reddit.com/user/shimanto47">
   <img width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
 </a>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;&nbsp;</span>
 </p>
 
 <br>
