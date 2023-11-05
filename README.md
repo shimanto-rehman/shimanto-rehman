@@ -12,13 +12,13 @@
 <span>&nbsp;</span>
 <span>&nbsp;&nbsp;</span>
 <a href="https://twitter.com/shimanto_rehman">
-  <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;&nbsp;</span>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
-  <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
