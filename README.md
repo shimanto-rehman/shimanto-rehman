@@ -5,7 +5,7 @@
 
 <p align="center">
 <!-- ! Social Links -->
-<a href="https://www.facebook.com/s.m.shimanto.rehman/" style="padding-left: 20px;">
+<a href="https://www.facebook.com/s.m.shimanto.rehman/" style="padding-left: 10;">
   <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <a href="https://twitter.com/shimanto_rehman">
