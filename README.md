@@ -1,5 +1,5 @@
 <style>
-paddingLeft {
+ a.paddingLeft {
   padding-left: 20px;
 }
 </style>
