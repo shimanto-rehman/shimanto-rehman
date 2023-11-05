@@ -7,7 +7,7 @@
   <img height="100%" width="100%" src="Intro.gif"/>
 </p>
 
-<p align="center">
+<div align="center">
 <!-- ! Social Links -->
 <div style="margin-right: 30px;">
   <a href="https://www.facebook.com/s.m.shimanto.rehman/">
@@ -53,7 +53,7 @@
 <a href="https://www.reddit.com/user/shimanto47">
   <img width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
 </a>
-</p>
+</div>
 
 <br>
 <p align="center">
