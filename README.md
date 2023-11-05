@@ -8,10 +8,10 @@
 <a href="https://www.facebook.com/s.m.shimanto.rehman/">
   <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://twitter.com/shimanto_rehman">
   <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
