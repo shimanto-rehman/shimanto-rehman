@@ -9,7 +9,7 @@
 
 <div align="center">
 <!-- ! Social Links -->
-<div style="margin-right: 30px;">
+<div style="padding: 30px;">
   <a href="https://www.facebook.com/s.m.shimanto.rehman/">
   <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
   </a>
