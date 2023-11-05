@@ -1,12 +1,7 @@
 <html>
 <head>
-<style>
- a.paddingLeft {
-  padding-left: 20px;
-}
-</style>
 </head>
-<body
+<body>
 <!-- ! Intro Gif Video -->
 <p align="center">
   <img height="100%" width="100%" src="Intro.gif"/>
@@ -14,7 +9,7 @@
 
 <p align="center">
 <!-- ! Social Links -->
-<a href="https://www.facebook.com/s.m.shimanto.rehman/" class="paddingLeft">
+<a href="https://www.facebook.com/s.m.shimanto.rehman/" style="margin-right: 30px;">
   <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <a href="https://twitter.com/shimanto_rehman">
