@@ -1,8 +1,12 @@
+<html>
+<head>
 <style>
  a.paddingLeft {
   padding-left: 20px;
 }
 </style>
+</head>
+<body
 <!-- ! Intro Gif Video -->
 <p align="center">
   <img height="100%" width="100%" src="Intro.gif"/>
@@ -147,3 +151,5 @@
 <p align="center">
   <img alt="GIF" src="BD.gif"/>
 </p>
+</body>
+</html>
