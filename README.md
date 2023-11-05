@@ -26,6 +26,13 @@
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
+<a href="https://codeforces.com/profile/shimanto_rehman/">
+<img width="22px" alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
+</a>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
   <img width="22px" alt="spotify" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
 </a>
