@@ -18,7 +18,7 @@
 <span>&nbsp;</span>
 <span>&nbsp;&nbsp;</span>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
-  <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" />
+  <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
