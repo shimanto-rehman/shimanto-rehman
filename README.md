@@ -9,7 +9,7 @@
 
 <div align="center">
 <!-- ! Social Links -->
-<a href="https://www.facebook.com/s.m.shimanto.rehman/">
+<a href="https://www.facebook.com/s.m.shimanto.rehman/"  style="text-decoration:none">
 <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <span>&nbsp;</span>
