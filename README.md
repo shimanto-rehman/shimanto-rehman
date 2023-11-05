@@ -7,7 +7,7 @@
   <img height="100%" width="100%" src="Intro.gif"/>
 </p>
 
-<div align="center">
+<div align="center" class="display: inline-block;">
 <!-- ! Social Links -->
 <div style="padding: 30px;">
   <a href="https://www.facebook.com/s.m.shimanto.rehman/">
