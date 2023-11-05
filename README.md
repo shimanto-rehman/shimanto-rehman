@@ -10,37 +10,39 @@
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://twitter.com/shimanto_rehman">
   <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
   <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
   <img width="22px" alt="spotify" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://instagram.com/shimanto_rehman">
   <img width="22px" alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://www.reddit.com/user/shimanto47">
   <img width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
 </a>
-<span>&nbsp;</span>
-<span>&nbsp;</span>
-<span>&nbsp;&nbsp;</span>
 </p>
 
 <br>
