@@ -17,42 +17,42 @@
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://twitter.com/shimanto_rehman">
-  <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+  <img width="22px" alt="twitter" src="Social-Icons/twitter.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://www.linkedin.com/in/shimanto-rahman-aa347a148/">
-  <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img width="22px" alt="Linkedin" src="Social-Icons/linked-in-alt.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://codeforces.com/profile/shimanto_rehman/">
-<img width="22px" alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
+<img width="22px" alt="Codeforces" src="Social-Icons/codeforces.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://open.spotify.com/user/349lvs5diwiulbqihpt61x1vg">
-  <img width="22px" alt="spotify" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
+  <img width="22px" alt="spotify" src="Social-Icons/spotify.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://instagram.com/shimanto_rehman">
-  <img width="22px" alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  <img width="22px" alt="Instagram" src="Social-Icons/instagram.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
 <a href="https://www.reddit.com/user/shimanto47">
-  <img width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
+  <img width="22px" alt="reddit" src="Social-Icons/reddit.svg" />
 </a>
 </div>
 
