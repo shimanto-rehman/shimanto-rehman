@@ -10,7 +10,7 @@
 <div align="center">
 <!-- ! Social Links -->
 <a href="https://www.facebook.com/s.m.shimanto.rehman/"  style="text-decoration:none">
-<img width="22px" alt="Facebook" src="Social-icons/facebook.svg" />
+<img width="22px" alt="Facebook" src="Social-Icons/facebook.svg" />
 </a>
 <span>&nbsp;</span>
 <span>&nbsp;</span>
